@@ -18,6 +18,6 @@ Numerical: used median
 Categorical: used mode
 Precipitation : filled with 0
 Delete duplicates
-Boxplots for detecting outliers
+Boxplots for detecting outliers:
 (Distance(mi), Wind_Speed(mph), Visibility(mi), Humidity(%), Wind_Chill(F), Temperature(F), Precipitation(in), Pressure(in)) ->left it because it's real
 -----------------------------------------------------------------------------------------------------------------------------------------------------
