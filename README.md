@@ -8,7 +8,7 @@ Turning_Loop)
 Accident Timetable (Temporal Data, Start_Time, End_Time, Severity, Distance(mi))
 
 Location (Street, City, State, Country, Amenity)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Data Cleaning Steps:
 Removed unnecessary columns
 Convert Start_Time and End_Time into datetime 
@@ -20,4 +20,4 @@ Precipitation : filled with 0
 Delete duplicates
 Boxplots for detecting outliers:
 (Distance(mi), Wind_Speed(mph), Visibility(mi), Humidity(%), Wind_Chill(F), Temperature(F), Precipitation(in), Pressure(in)) ->left it because it's real
------------------------------------------------------------------------------------------------------------------------------------------------------
+
